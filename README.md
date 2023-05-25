@@ -19,9 +19,6 @@
   <image src="https://github.com/Tenglingfeng/Parking/blob/main/image/2.png"/>
 </div>
 <div>
-  <image src="https://github.com/Tenglingfeng/Parking/blob/main/image/3.png"/>
-</div>
-<div>
   <image src="https://github.com/Tenglingfeng/Parking/blob/main/image/4.png"/>
 </div>
 
