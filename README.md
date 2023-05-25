@@ -27,11 +27,11 @@
 
 小程序
 <div>
-  <image src="https://github.com/Tenglingfeng/Parking/blob/main/image/5.png"/>
+  <image src="https://github.com/Tenglingfeng/Parking/blob/main/image/5.jpg"/>
 </div>
 
 PDA
 <div>
-  <image src="https://github.com/Tenglingfeng/Parking/blob/main/image/6.png"/>
+  <image src="https://github.com/Tenglingfeng/Parking/blob/main/image/6.jpg"/>
 </div>
 
